@@ -1132,3 +1132,9 @@ header .logo-container {
 .corner-ribbon a {
     color: white;
 }
+
+.call-button .button:focus {
+  color: #fff;
+  outline: none;
+  text-decoration: none;
+}
